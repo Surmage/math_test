@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\engine\core\app.cc">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\engine\config.cc">
+      <Filter>pch</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\engine\core\app.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\engine\config.h">
+      <Filter>pch</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\engine\core\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="core">
+      <UniqueIdentifier>{CF470B0A-E826-35BC-9D15-1C553F0CE0DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pch">
+      <UniqueIdentifier>{90748BBD-CF17-31E7-81D1-C379736BA731}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
