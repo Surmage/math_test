@@ -170,34 +170,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\projects\ImGuiExample\ImGuiExample.vcxproj">
-      <Project>{B278E9D0-2798-3AEB-A858-6188636A6B65}</Project>
-      <Name>ImGuiExample</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\engine\core\core.vcxproj">
-      <Project>{CDB0CDF0-53F7-3C98-979C-24DDF7DB0A1D}</Project>
-      <Name>core</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\projects\example\example.vcxproj">
-      <Project>{8D3D42C8-E1B1-3E36-A470-AB9D8CA09118}</Project>
-      <Name>example</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\exts\glew\glew.vcxproj">
-      <Project>{2F2FE809-3280-36D6-8198-8A79D844DFDD}</Project>
-      <Name>glew</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\exts\glfw\src\glfw.vcxproj">
-      <Project>{88D74F54-9D56-3574-B0BE-A869C46BF43F}</Project>
-      <Name>glfw</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\projects\math_test\math_test.vcxproj">
-      <Project>{707430DF-C053-38DF-9C08-00176AC86B65}</Project>
-      <Name>math_test</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\aleslu-0-local\source\repos\lab-env-master\build\exts\nanovg.vcxproj">
-      <Project>{A7330B06-6E5F-330C-A476-CF3ECB27BBD8}</Project>
-      <Name>nanovg</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

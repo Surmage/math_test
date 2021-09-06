@@ -1,16 +1,2 @@
 C:/Users/aleslu-0-local/source/repos/lab-env-master/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/aleslu-0-local/source/repos/lab-env-master/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/exts/CMakeFiles/nanovg.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/exts/CMakeFiles/imgui.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/exts/glew/CMakeFiles/glew.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/exts/glew/CMakeFiles/ALL_BUILD.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/exts/glfw/CMakeFiles/ALL_BUILD.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/exts/glfw/src/CMakeFiles/glfw.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/engine/core/CMakeFiles/core.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/engine/render/CMakeFiles/render.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/projects/ImGuiExample/CMakeFiles/ImGuiExample.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/projects/ImGuiExample/CMakeFiles/ALL_BUILD.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/projects/example/CMakeFiles/example.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/projects/example/CMakeFiles/ALL_BUILD.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/projects/math_test/CMakeFiles/math_test.dir
-C:/Users/aleslu-0-local/source/repos/lab-env-master/build/projects/math_test/CMakeFiles/ALL_BUILD.dir
